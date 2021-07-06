@@ -1,0 +1,7 @@
+
+*.tlog
+*.pdb
+*.pch
+Debug/*
+FIR Filter.sdf
+FIR Filter.suo
